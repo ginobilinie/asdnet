@@ -3,7 +3,7 @@ This is the pytorch code of the proposed asdnet for medical image segmentation. 
 
 Main entrance: runGAN.py or runGAN_supervised.py
 
-
+<p>
 @inproceedings{nie2018asdnet,
   title={ASDNet: attention based semi-supervised deep networks for medical image segmentation},
   author={Nie, Dong and Gao, Yaozong and Wang, Li and Shen, Dinggang},
@@ -12,3 +12,4 @@ Main entrance: runGAN.py or runGAN_supervised.py
   year={2018},
   organization={Springer}
 }
+</p>
