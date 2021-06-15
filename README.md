@@ -5,10 +5,12 @@ Main entrance: runGAN.py or runGAN_supervised.py
 
 ## Cite
 <pre>
-@inproceedings{nie2020bidirectional,
-  title={Bidirectional Pyramid Networks for Semantic Segmentation},
-  author={Nie, Dong and Xue, Jia and Ren, Xiaofeng},
-  booktitle={Proceedings of the Asian Conference on Computer Vision},
-  year={2020}
+@inproceedings{nie2018asdnet,
+  title={ASDNet: attention based semi-supervised deep networks for medical image segmentation},
+  author={Nie, Dong and Gao, Yaozong and Wang, Li and Shen, Dinggang},
+  booktitle={International conference on medical image computing and computer-assisted intervention},
+  pages={370--378},
+  year={2018},
+  organization={Springer}
 }
 </pre>
